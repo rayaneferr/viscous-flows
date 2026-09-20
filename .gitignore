@@ -1,0 +1,10 @@
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+
+# Système
+.DS_Store
+
+# Note : les GIF/PNG de figures/ sont VOLONTAIREMENT versionnés
+# (ils s'affichent dans le README du portfolio).
